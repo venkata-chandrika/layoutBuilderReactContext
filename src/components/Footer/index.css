@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.background-footer {
+  background-color: #cbd5e1;
+  margin-bottom: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer {
+  color: #64748b;
+}
